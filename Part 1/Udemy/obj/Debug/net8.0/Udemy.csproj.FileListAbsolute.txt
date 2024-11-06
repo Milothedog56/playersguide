@@ -1,0 +1,14 @@
+C:\Users\john.nguyen\OneDrive - Praemium\Desktop\C#\Players Guide\Part 1\Udemy\bin\Debug\net8.0\Udemy.exe
+C:\Users\john.nguyen\OneDrive - Praemium\Desktop\C#\Players Guide\Part 1\Udemy\bin\Debug\net8.0\Udemy.deps.json
+C:\Users\john.nguyen\OneDrive - Praemium\Desktop\C#\Players Guide\Part 1\Udemy\bin\Debug\net8.0\Udemy.runtimeconfig.json
+C:\Users\john.nguyen\OneDrive - Praemium\Desktop\C#\Players Guide\Part 1\Udemy\bin\Debug\net8.0\Udemy.dll
+C:\Users\john.nguyen\OneDrive - Praemium\Desktop\C#\Players Guide\Part 1\Udemy\bin\Debug\net8.0\Udemy.pdb
+C:\Users\john.nguyen\OneDrive - Praemium\Desktop\C#\Players Guide\Part 1\Udemy\obj\Debug\net8.0\Udemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\john.nguyen\OneDrive - Praemium\Desktop\C#\Players Guide\Part 1\Udemy\obj\Debug\net8.0\Udemy.AssemblyInfoInputs.cache
+C:\Users\john.nguyen\OneDrive - Praemium\Desktop\C#\Players Guide\Part 1\Udemy\obj\Debug\net8.0\Udemy.AssemblyInfo.cs
+C:\Users\john.nguyen\OneDrive - Praemium\Desktop\C#\Players Guide\Part 1\Udemy\obj\Debug\net8.0\Udemy.csproj.CoreCompileInputs.cache
+C:\Users\john.nguyen\OneDrive - Praemium\Desktop\C#\Players Guide\Part 1\Udemy\obj\Debug\net8.0\Udemy.dll
+C:\Users\john.nguyen\OneDrive - Praemium\Desktop\C#\Players Guide\Part 1\Udemy\obj\Debug\net8.0\refint\Udemy.dll
+C:\Users\john.nguyen\OneDrive - Praemium\Desktop\C#\Players Guide\Part 1\Udemy\obj\Debug\net8.0\Udemy.pdb
+C:\Users\john.nguyen\OneDrive - Praemium\Desktop\C#\Players Guide\Part 1\Udemy\obj\Debug\net8.0\Udemy.genruntimeconfig.cache
+C:\Users\john.nguyen\OneDrive - Praemium\Desktop\C#\Players Guide\Part 1\Udemy\obj\Debug\net8.0\ref\Udemy.dll
